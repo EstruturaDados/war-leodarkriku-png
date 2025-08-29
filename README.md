@@ -22,7 +22,11 @@ A empresa **MateCheck** contratou você para criar uma versão estruturada do WA
 
 ### 💡 Conceitos abordados
 
-- `struct`
+- `struct`"territorio 1
+nome do territorio canàda
+cor verde 
+numero de tropas 5
+
 - Vetor estático
 - Entrada/saída com `scanf`, `fgets`, e `printf`
 
